@@ -11,7 +11,6 @@ authors:
 license: CC-BY-4.0
 keywords: NCA
 doi: 10.32388/JPUWVB
-
 ---
 
 
