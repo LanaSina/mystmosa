@@ -1,4 +1,4 @@
-name: MyST Deploy
+name: MyST Deploy0
 on:
   push:
     branches: [main]
